@@ -82,6 +82,39 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "title": "yellow",
+        "description": "a description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387269973754883,
+          52.50394483330318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "title": "red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.395123481750488,
+          52.50559054280683
+        ]
+      }
     }
   ]
 }
