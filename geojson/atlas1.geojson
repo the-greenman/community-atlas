@@ -29,18 +29,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Kiezstube Mehringpltz"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Vielfalt E.V."
             },
             "geometry": {
@@ -48,42 +36,6 @@
                 "coordinates": [
                     13.39274,
                     52.4996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "GEWOBAG"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Sanierungsgebiet Südliche Friedrichstadt"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
                 ]
             }
         },
@@ -103,54 +55,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Metropolenhaus am Judisches Museum"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Erzählcafè"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Projektgruppe X Blumenmarkt"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Bauhutte"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Quartiermanagement am Mehringplaz - Kunstwelt .v."
             },
             "geometry": {
@@ -158,18 +62,6 @@
                 "coordinates": [
                     13.3918,
                     52.50006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Soziale Stadt - Quartiersmanagement am Mehringplatz  "
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
                 ]
             }
         },
@@ -196,18 +88,6 @@
                 "coordinates": [
                     13.39265,
                     52.4996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Besselpark"
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": [
-                    []
                 ]
             }
         },
@@ -279,6 +159,136 @@
                         23,
                         23
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Die Globale e.V."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39248,
+                    52.49974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Café MaDaMe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39248,
+                    52.49974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Vielfalt E.V."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39274,
+                    52.4996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Donut Wedge with Two Balls "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39144,
+                    52.50353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Quartiermanagement am Mehringplaz - Kunstwelt .v."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3918,
+                    52.50006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Ela Kagel - Supermarkt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39265,
+                    52.4996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Supermarkt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39265,
+                    52.4996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "TAZ Neubau"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39135,
+                    52.50315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hedwig Dohm Gedenktafel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39107,
+                    52.50225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Victoria Versicherung Kreuzberg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
                 ]
             }
         }
