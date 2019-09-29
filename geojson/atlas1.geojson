@@ -3,6 +3,19 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Victoria Versicherung Kreuzberg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "KMA Antenne"
             },
             "geometry": {
@@ -257,19 +270,6 @@
                 "coordinates": [
                     13.39135,
                     52.50315
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Hedwig Dohm Gedenktafel"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39107,
-                    52.50225
                 ]
             }
         }
