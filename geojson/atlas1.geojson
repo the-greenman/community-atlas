@@ -3,6 +3,19 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Hedwig Dohm Gedenktafel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39107,
+                    52.50225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Victoria Versicherung Kreuzberg"
             },
             "geometry": {
@@ -257,19 +270,6 @@
                 "coordinates": [
                     13.39265,
                     52.4996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "TAZ Neubau"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39135,
-                    52.50315
                 ]
             }
         }
