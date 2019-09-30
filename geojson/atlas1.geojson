@@ -3,46 +3,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Hedwig Dohm Gedenktafel"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39107,
-                    52.50225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Victoria Versicherung Kreuzberg"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39625,
-                    52.50373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "KMA Antenne"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39179,
-                    52.50062
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Die Globale e.V."
+                "title": "Die Globale e.V.",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -55,7 +18,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Café MaDaMe"
+                "title": "Café MaDaMe",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +33,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Vielfalt E.V."
+                "title": "Vielfalt E.V.",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -81,7 +48,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Donut Wedge with Two Balls "
+                "title": "Donut Wedge with Two Balls ",
+                "start_date": "",
+                "end_date": "2010-09-26T06:00:00.000-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -94,7 +63,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Quartiermanagement am Mehringplaz - Kunstwelt .v."
+                "title": "Quartiermanagement am Mehringplaz - Kunstwelt .v.",
+                "start_date": "1998-09-26T01:00:00.000-07:00",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -107,7 +78,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Ela Kagel - Supermarkt"
+                "title": "Ela Kagel - Supermarkt",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -120,7 +93,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Supermarkt"
+                "title": "Supermarkt",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -133,7 +108,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "TAZ Neubau"
+                "title": "TAZ Neubau",
+                "start_date": "",
+                "end_date": "2019-09-24T16:00:00.000-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -146,7 +123,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Hedwig Dohm Gedenktafel"
+                "title": "Hedwig Dohm Gedenktafel",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -159,7 +138,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Victoria Versicherung Kreuzberg"
+                "title": "Victoria Versicherung Kreuzberg",
+                "start_date": "",
+                "end_date": "1913-01-01T08:00:00.000-08:00"
             },
             "geometry": {
                 "type": "Point",
@@ -172,7 +153,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "KMA Antenne"
+                "title": "KMA Antenne",
+                "start_date": "2019-09-29T16:00:00.000-07:00",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -185,7 +168,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Die Globale e.V."
+                "title": "Die Globale e.V.",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -198,7 +183,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Café MaDaMe"
+                "title": "Café MaDaMe",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -211,7 +198,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Vielfalt E.V."
+                "title": "Vielfalt E.V.",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -224,7 +213,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Donut Wedge with Two Balls "
+                "title": "Donut Wedge with Two Balls ",
+                "start_date": "",
+                "end_date": "2010-09-26T06:00:00.000-07:00"
             },
             "geometry": {
                 "type": "Point",
@@ -237,7 +228,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Quartiermanagement am Mehringplaz - Kunstwelt .v."
+                "title": "Quartiermanagement am Mehringplaz - Kunstwelt .v.",
+                "start_date": "1998-09-26T01:00:00.000-07:00",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -250,7 +243,9 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Ela Kagel - Supermarkt"
+                "title": "Ela Kagel - Supermarkt",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
@@ -263,13 +258,60 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Supermarkt"
+                "title": "Supermarkt",
+                "start_date": "",
+                "end_date": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     13.39265,
                     52.4996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "TAZ Neubau",
+                "start_date": "",
+                "end_date": "2019-09-24T16:00:00.000-07:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39135,
+                    52.50315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Hedwig Dohm Gedenktafel",
+                "start_date": "",
+                "end_date": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39107,
+                    52.50225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Victoria Versicherung Kreuzberg",
+                "start_date": "",
+                "end_date": "1913-01-01T08:00:00.000-08:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
                 ]
             }
         }
