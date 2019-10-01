@@ -3,6 +3,23 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "TAZ Neubau",
+                "marker-symbol": "square\r",
+                "start_date": "2018-09-29T16:00:00.000-07:00",
+                "description": "Building site for the new building of the TAZ Newspaper. \n\nNew house for the Taz, die Tageszeitung, created through a common investment of its cooperative members to respond better to the changes of the new digital structure and organization of work, in order to improve the working conditions and at the same time secure the Taz’s company through a capital investment.\nThe design concept follows the idea of (quote) “a system without hierarchies”, where the network is the structural guiding principle.\nIt claims to be a (quote) “ living organism”: besides allowing all employees currently working in three different buildings to work together under one roof, it looks to its new role as part of the creative quarter’s project and wants to achieve openness to outside, addressing not only the past supporters of taz, cooperative members, founders, limited partners, subscribers and readers, but in general to all those who want to support the house project and participate in the cooperative.\nRecently completed, is becoming operational",
+                "end_date": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39135,
+                    52.50315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Hedwig Dohm Gedenktafel",
                 "marker-symbol": "monument\r",
                 "start_date": "",
@@ -330,23 +347,6 @@
                 "marker-symbol": "cross\r",
                 "start_date": "",
                 "description": "Interview with Ela Kagel, cofounder of Supermarkt.\nRealised in the frame of EULER - Switch On Mehringplatz Erasmus plus program.\nThis video is part of a set of interview to local social, economic and institutional stakeholders realised as part of Mehringplatz Solidarity Curriculum, a neighbourhood atlas aimed at survey existing resources and potentialities of the Südliche Friedrichstadt. Recorded 13.03.2017 at Supermarkt by Vicky Kiefer and Lorenzo Tripodi\nCamera and editing Manuela Conti - OginoKnauss\n",
-                "end_date": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39265,
-                    52.4996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Supermarkt",
-                "marker-symbol": "circle\r",
-                "start_date": "2010-09-29T16:00:00.000-07:00",
-                "description": "Platform for digital culture, alternative economies and new forms of work. Organizes and hosts workshops and conferences, both in its space and in cooperation with other spaces. Own programme with an emphasis on Open Source Technologies, Freelance Work and Social Innovation. / eine Plattform für digitale Kultur, kollaborative Ökonomie & neue Arbeitsformen. Veranstaltet Workshops und Konferenzen, sowohl in seinem Raum als auch in Kooperation mit anderen Spaces. Eigenes Programm rund um Open Source, aktuelle Arbeitsmodelle und soziale Innovation.",
                 "end_date": ""
             },
             "geometry": {
