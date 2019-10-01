@@ -3,6 +3,23 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "KMA Antenne",
+                "marker-symbol": "circle\r",
+                "start_date": "1987-09-29T16:00:00.000-07:00",
+                "description": "Youth centre",
+                "end_date": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39179,
+                    52.50062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Die Globale e.V.",
                 "marker-symbol": "circle\r",
                 "start_date": "2007-09-29T16:00:00.000-07:00",
@@ -337,23 +354,6 @@
                 "coordinates": [
                     13.39107,
                     52.50225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Victoria Versicherung Kreuzberg",
-                "marker-symbol": "square\r",
-                "start_date": "1913-09-29T16:00:00.000-08:00",
-                "description": "Neo- baroque building ",
-                "end_date": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39625,
-                    52.50373
                 ]
             }
         }
