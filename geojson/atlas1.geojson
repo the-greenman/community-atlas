@@ -3,6 +3,23 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Victoria Versicherung Kreuzberg",
+                "marker-symbol": "square\r",
+                "start_date": "1913-09-29T16:00:00.000-08:00",
+                "description": "Neo- baroque building ",
+                "end_date": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39625,
+                    52.50373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "KMA Antenne",
                 "marker-symbol": "circle\r",
                 "start_date": "1987-09-29T16:00:00.000-07:00",
@@ -337,23 +354,6 @@
                 "coordinates": [
                     13.39135,
                     52.50315
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Hedwig Dohm Gedenktafel",
-                "marker-symbol": "monument\r",
-                "start_date": "",
-                "description": "Marianne Adelaide Hedwig Dohm  (20 September 1831 – 1 June 1919) was a German feminist, and author. She was one of the first feminist thinkers. She lived in this house until 1851.",
-                "end_date": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.39107,
-                    52.50225
                 ]
             }
         }
