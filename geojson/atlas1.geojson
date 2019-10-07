@@ -311,5 +311,9 @@
                 ]
             }
         }
-    ]
+    ],
+    "properties": {
+        "title": "Mehringplatz",
+        "uri": "https://mehiringplatz.community-atlas.net"
+    }
 }
