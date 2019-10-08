@@ -10,7 +10,8 @@
                 "description": "",
                 "end_date": "",
                 "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/kiezstube_mehringpltz"
         },
         {
             "type": "Feature",
@@ -21,7 +22,8 @@
                 "description": "One of the six municipal housing companies in Berlin. On behalf of the State of Berlin, Gewobag pursues the goal of providing affordable housing for large population and increasing municipal housing stock. With over 62,000 apartments and more than 100,000 tenants, the Gewobag portfolio is the size of a medium-sized city - and it continues to grow. Gewobag is the main real estate owner of Mehringplatz",
                 "end_date": "",
                 "image": "https://www.gewobag.de/wp-content/themes/gewobag/assets/svg/gewobag-logo.svg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/gewobag"
         },
         {
             "type": "Feature",
@@ -32,7 +34,8 @@
                 "description": "",
                 "end_date": "",
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/sanierungsgebiet_s_dliche_friedrichstadt"
         },
         {
             "type": "Feature",
@@ -43,7 +46,8 @@
                 "description": "\nAdvisory and exchange committee between the local authority and other stakeholders.\nInfluencing important decision-making processes and goals of redevelopment. In particular:\n- information and advice on construction measures to be developed and implemented with funding for urban regeneration to improve public infrastructure and public space;\n- participation in the design of concepts and formulation and modification of reconstruction targets structure.\nIt consists of: Territorial Representation and the employees of the District and Senate Administration responsible for the redevelopment area and their representatives. Aditionally, the Quartiersmanagement of Mehringplatz and Gewobag take part of the advisory council.",
                 "end_date": "",
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_"
         },
         {
             "type": "Feature",
@@ -54,7 +58,8 @@
                 "description": "\nPxB baufeld V - The project is composed by residential and commercial units - including green and recreational spaces.\nThe ground floor is intended to host four separable and combinable project rooms and artist studios, two restaurants and five small-scale shops; these should integrate local initiatives and facilitate \"\"exchange, networking, and urban co-existence\"\"(quote) according to the spirit of the ‘intercultural mosaic’, with its orientation towards art, design and everyday life with a focus on exchange between oriental, Jewish and German culture. Additional support to this purpose should come from neighboring cultural institutions such as the Berlinische Galerie and the Jewish Museum.\n- The cultural and commercial concept is funded on the economic backbone of cross-financing: the sale of apartments on the upper floors finances the construction of the ground floor space, and at the same time each owner of an apartment will in the future be a shareholder in these temporarily available facilities.",
                 "end_date": "",
                 "image": "https://www.ak-berlin.de/fileadmin/user_upload/Tag_der_Architektur/TdA_2017/17.jpg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/metropolenhaus_am_judisches_museum"
         },
         {
             "type": "Feature",
@@ -65,7 +70,8 @@
                 "description": "A series of meetings with informed citizens and long time residents telling their stories and experience of the area of the Südliche Friedrichstadt. Part of the activities to facilitate the integration  of the new developments of the PXB plan realised at the Bauhütte in 2017",
                 "end_date": "2017-09-26T04:00:00.000-07:00",
                 "image": "https://irp-cdn.multiscreensite.com/5c373733/dms3rep/multi/desktop/ada347df5f334c2a9696b92b4f7851b6-420x595.dm.edit_KyaLZO.jpg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/erz_hlcaf_"
         },
         {
             "type": "Feature",
@@ -76,7 +82,8 @@
                 "description": "The ex-Blumengroßmarkt project group (PxB) emerged from Berlin's first concept-based real estate allocation process. It is an amalgamation of the three assembly groups and planning teams who initiated the projects on the construction sites II, IV and V at the former flower wholesale market and will realise these in three different development models.\n\nSince the award decision in December 2012, all three project teams have been working together to implement their respective building projects in a model-like way in dialogue with the neighbourhood, the district and the Senate and the users.",
                 "end_date": "2019-09-26T03:00:00.000-07:00",
                 "image": "https://pxb.ag/images/intro.jpg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/projektgruppe_x_blumenmarkt"
         },
         {
             "type": "Feature",
@@ -87,7 +94,8 @@
                 "description": "Bauhütte\na civil society platform. A temporary structure built to facilitate the social integration of the new development projects of the Baufeld program. The construction field development on the former flower wholesale market relies on participation. In the center of the site was placed the Bauhütte, a 60-square-meter project space, where the threads of the discussion about public participation, urban politics and architecture, youth and education converge. Here, residents, construction workers and architects, future users and builders meet at eye level to discuss on temporary use and trade development. So a small house makes a big contribution to the social cohesion of the people in the neighborhood. They get to know each other and can benefit from each other. For two years, it it has worked as a civil society platform in the middle of the construction site between Friedrichstrasse and the Jewish Museum. In summer 2019 the structure has been relocated to a new location next to the TAZ new building, surrounded by a new community garden. ",
                 "end_date": "",
                 "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/bauhutte"
         },
         {
             "type": "Feature",
@@ -98,7 +106,8 @@
                 "description": "In 2005 the area around Mehringplatz has been targeted by the national Soziale Stadt program (Socially Integrative City ), identifying this territory as a deprived neighbourhood in need for specific social support measures according to standards defined at Federal level. Soziale Stadt is a complex and comprehensive community-led local development scheme that combines a tight spatial focus, local participation, and the integration of policies and human and financial resources. This federal programme, jointly financed by European Regional Development Funds and national funds, decentralises decision-making, by delegating responsibility for small-scale projects to residents living in deprived areas selected by the Berlin Senate. The program establishes a local Quartiermanagement that manages different types of Neighbourhood Funds, each covering a different type of project and working with the direct involvement of residents. The Quartiersmanagement teams provide a platform for networking and interaction, enabling groups and actors to debate and identify local needs, values and responses.",
                 "end_date": "",
                 "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/soziale_stadt_quartiersmanagement_am_mehringplatz_"
         },
         {
             "type": "Feature",
@@ -109,7 +118,8 @@
                 "description": "Redesign of the park in course as part of the Regeneration plan (Senierungsgebiet). The project has ben selected though a competition with a public consultation",
                 "end_date": "",
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg"
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/besselpark_regeneration_"
         }
     ],
     "features": [
@@ -129,7 +139,8 @@
                     13.39248,
                     52.49974
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/die_globale_e_v_"
         },
         {
             "type": "Feature",
@@ -147,7 +158,8 @@
                     13.39248,
                     52.49974
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/caf_madame"
         },
         {
             "type": "Feature",
@@ -165,7 +177,8 @@
                     13.39274,
                     52.4996
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/vielfalt_e_v_"
         },
         {
             "type": "Feature",
@@ -183,7 +196,8 @@
                     13.39144,
                     52.50353
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/donut_wedge_with_two_balls_"
         },
         {
             "type": "Feature",
@@ -201,7 +215,8 @@
                     13.3918,
                     52.50006
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/quartiermanagement_am_mehringplaz_kunstwelt_v_"
         },
         {
             "type": "Feature",
@@ -219,7 +234,8 @@
                     13.39265,
                     52.4996
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/ela_kagel_supermarkt"
         },
         {
             "type": "Feature",
@@ -237,7 +253,8 @@
                     13.39265,
                     52.4996
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/supermarkt"
         },
         {
             "type": "Feature",
@@ -255,7 +272,8 @@
                     13.39135,
                     52.50315
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/taz_neubau"
         },
         {
             "type": "Feature",
@@ -273,7 +291,8 @@
                     13.39107,
                     52.50225
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/hedwig_dohm_gedenktafel"
         },
         {
             "type": "Feature",
@@ -291,7 +310,8 @@
                     13.39625,
                     52.50373
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/victoria_versicherung_kreuzberg"
         },
         {
             "type": "Feature",
@@ -309,7 +329,8 @@
                     13.39179,
                     52.50062
                 ]
-            }
+            },
+            "id": "https://mehiringplatz.community-atlas.net/kma_antenne"
         }
     ],
     "properties": {
