@@ -13,7 +13,7 @@
                 "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg",
                 "type2": "Place"
             },
-            "id": "https://mehiringplatz.community-atlas.net/kiezstube_mehringpltz"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -27,7 +27,7 @@
                 "image": "https://www.gewobag.de/wp-content/themes/gewobag/assets/svg/gewobag-logo.svg",
                 "type2": "Organization"
             },
-            "id": "https://mehiringplatz.community-atlas.net/gewobag"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -41,7 +41,7 @@
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
                 "type2": "Program"
             },
-            "id": "https://mehiringplatz.community-atlas.net/sanierungsgebiet_s_dliche_friedrichstadt"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -55,7 +55,7 @@
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
                 "type2": "Organization"
             },
-            "id": "https://mehiringplatz.community-atlas.net/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -69,7 +69,7 @@
                 "image": "https://www.ak-berlin.de/fileadmin/user_upload/Tag_der_Architektur/TdA_2017/17.jpg",
                 "type2": "Building"
             },
-            "id": "https://mehiringplatz.community-atlas.net/metropolenhaus_am_judisches_museum"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -83,7 +83,7 @@
                 "image": "https://irp-cdn.multiscreensite.com/5c373733/dms3rep/multi/desktop/ada347df5f334c2a9696b92b4f7851b6-420x595.dm.edit_KyaLZO.jpg",
                 "type2": "Event"
             },
-            "id": "https://mehiringplatz.community-atlas.net/erz_hlcaf_"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -97,7 +97,7 @@
                 "image": "https://pxb.ag/images/intro.jpg",
                 "type2": "Program"
             },
-            "id": "https://mehiringplatz.community-atlas.net/projektgruppe_x_blumenmarkt"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -111,7 +111,7 @@
                 "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
                 "type2": "Building"
             },
-            "id": "https://mehiringplatz.community-atlas.net/bauhutte"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -125,7 +125,7 @@
                 "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
                 "type2": "Program"
             },
-            "id": "https://mehiringplatz.community-atlas.net/soziale_stadt_quartiersmanagement_am_mehringplatz_"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -139,7 +139,7 @@
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
                 "type2": "Place"
             },
-            "id": "https://mehiringplatz.community-atlas.net/besselpark_regeneration_"
+            "id": ""
         }
     ],
     "features": [
@@ -162,7 +162,7 @@
                     52.49974
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/die_globale_e_v_"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -183,7 +183,7 @@
                     52.49974
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/caf_madame"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -204,7 +204,7 @@
                     52.4996
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/vielfalt_e_v_"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -225,7 +225,7 @@
                     52.50353
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/donut_wedge_with_two_balls_"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -246,7 +246,7 @@
                     52.50006
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/quartiermanagement_am_mehringplaz_kunstwelt_v_"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -267,7 +267,7 @@
                     52.4996
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/ela_kagel_supermarkt"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -288,7 +288,7 @@
                     52.4996
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/supermarkt"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -309,7 +309,7 @@
                     52.50315
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/taz_neubau"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -330,7 +330,7 @@
                     52.50225
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/hedwig_dohm_gedenktafel"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -351,7 +351,7 @@
                     52.50373
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/victoria_versicherung_kreuzberg"
+            "id": ""
         },
         {
             "type": "Feature",
@@ -372,11 +372,13 @@
                     52.50062
                 ]
             },
-            "id": "https://mehiringplatz.community-atlas.net/kma_antenne"
+            "id": ""
         }
     ],
     "properties": {
-        "title": "Mehringplatz",
-        "uri": "https://mehiringplatz.community-atlas.net"
+        "title": "Mehringplatz Anknipsen",
+        "uri": "https://mehringplatz.community-atlas.net",
+        "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
+        "image": ""
     }
 }
