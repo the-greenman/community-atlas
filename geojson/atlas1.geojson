@@ -13,7 +13,7 @@
                 "image": "http://qm-mehringplatz.info/fileadmin/_processed_/csm_2018_eroeffn_kiezstube06_b9c3ae922e.jpg",
                 "type2": "Place"
             },
-            "id": "https://mehringplatz.community-atlas.net/kiezstube_mehringpltz#25"
+            "id": "mehringplatz-community-atlas/kiezstube_mehringpltz#25"
         },
         {
             "type": "Feature",
@@ -27,7 +27,7 @@
                 "image": "https://www.gewobag.de/wp-content/themes/gewobag/assets/svg/gewobag-logo.svg",
                 "type2": "Organization"
             },
-            "id": "https://mehringplatz.community-atlas.net/gewobag#23"
+            "id": "mehringplatz-community-atlas/gewobag#23"
         },
         {
             "type": "Feature",
@@ -41,7 +41,7 @@
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
                 "type2": "Program"
             },
-            "id": "https://mehringplatz.community-atlas.net/sanierungsgebiet_s_dliche_friedrichstadt#22"
+            "id": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
         },
         {
             "type": "Feature",
@@ -55,7 +55,7 @@
                 "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2017/01/logo_SanSF_mHintergrundklein.png",
                 "type2": "Organization"
             },
-            "id": "https://mehringplatz.community-atlas.net/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
+            "id": "mehringplatz-community-atlas/sanierungsbeirates_s_dliche_friedrichstadt_friedrichstadt_s_d_#21"
         },
         {
             "type": "Feature",
@@ -69,7 +69,7 @@
                 "image": "https://www.ak-berlin.de/fileadmin/user_upload/Tag_der_Architektur/TdA_2017/17.jpg",
                 "type2": "Building"
             },
-            "id": "https://mehringplatz.community-atlas.net/metropolenhaus_am_judisches_museum#19"
+            "id": "mehringplatz-community-atlas/metropolenhaus_am_judisches_museum#19"
         },
         {
             "type": "Feature",
@@ -83,7 +83,7 @@
                 "image": "https://irp-cdn.multiscreensite.com/5c373733/dms3rep/multi/desktop/ada347df5f334c2a9696b92b4f7851b6-420x595.dm.edit_KyaLZO.jpg",
                 "type2": "Event"
             },
-            "id": "https://mehringplatz.community-atlas.net/erz_hlcaf_#18"
+            "id": "mehringplatz-community-atlas/erz_hlcaf_#18"
         },
         {
             "type": "Feature",
@@ -97,7 +97,7 @@
                 "image": "https://pxb.ag/images/intro.jpg",
                 "type2": "Program"
             },
-            "id": "https://mehringplatz.community-atlas.net/projektgruppe_x_blumenmarkt#17"
+            "id": "mehringplatz-community-atlas/projektgruppe_x_blumenmarkt#17"
         },
         {
             "type": "Feature",
@@ -111,46 +111,18 @@
                 "image": "https://i.ibb.co/pJ4HtCY/SWITCH-ON-MEHRINGPLATZ-45-copia.jpg",
                 "type2": "Building"
             },
-            "id": "https://mehringplatz.community-atlas.net/bauhutte#16"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Soziale Stadt - Quartiersmanagement am Mehringplatz  ",
-                "type": "Program",
-                "marker-symbol": "star\r",
-                "start_date": "2005-09-26T00:00:00.000-07:00",
-                "description": "In 2005 the area around Mehringplatz has been targeted by the national Soziale Stadt program (Socially Integrative City ), identifying this territory as a deprived neighbourhood in need for specific social support measures according to standards defined at Federal level. Soziale Stadt is a complex and comprehensive community-led local development scheme that combines a tight spatial focus, local participation, and the integration of policies and human and financial resources. This federal programme, jointly financed by European Regional Development Funds and national funds, decentralises decision-making, by delegating responsibility for small-scale projects to residents living in deprived areas selected by the Berlin Senate. The program establishes a local Quartiermanagement that manages different types of Neighbourhood Funds, each covering a different type of project and working with the direct involvement of residents. The Quartiersmanagement teams provide a platform for networking and interaction, enabling groups and actors to debate and identify local needs, values and responses.",
-                "end_date": "",
-                "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
-                "type2": "Program"
-            },
-            "id": "https://mehringplatz.community-atlas.net/soziale_stadt_quartiersmanagement_am_mehringplatz_#14"
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Besselpark Regeneration ",
-                "type": "Place",
-                "marker-symbol": "square\r",
-                "start_date": "2019-08-14T16:00:00.000-07:00",
-                "description": "Redesign of the park in course as part of the Regeneration plan (Senierungsgebiet). The project has ben selected though a competition with a public consultation",
-                "end_date": "",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
-                "type2": "Place"
-            },
-            "id": "https://mehringplatz.community-atlas.net/besselpark_regeneration_#11"
+            "id": "mehringplatz-community-atlas/bauhutte#16"
         }
     ],
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "title": "The city of berlin",
+                "title": "The city of Berlin",
                 "type": "Place",
                 "marker-symbol": "square\r",
                 "start_date": "",
-                "description": "The city of berlin",
+                "description": "The city of Berlin",
                 "end_date": "",
                 "image": "",
                 "type2": "Place"
@@ -454,7 +426,7 @@
                     ]
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/the_city_of_berlin#28"
+            "id": "mehringplatz-community-atlas/the_city_of_berlin#28"
         },
         {
             "type": "Feature",
@@ -475,7 +447,7 @@
                     52.49974
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/die_globale_e_v_#27"
+            "id": "mehringplatz-community-atlas/die_globale_e_v_#27"
         },
         {
             "type": "Feature",
@@ -496,7 +468,7 @@
                     52.49974
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/caf_madame#26"
+            "id": "mehringplatz-community-atlas/caf_madame#26"
         },
         {
             "type": "Feature",
@@ -517,7 +489,7 @@
                     52.4996
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/vielfalt_e_v_#24"
+            "id": "mehringplatz-community-atlas/vielfalt_e_v_#24"
         },
         {
             "type": "Feature",
@@ -538,7 +510,7 @@
                     52.50353
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/donut_wedge_with_two_balls_#20"
+            "id": "mehringplatz-community-atlas/donut_wedge_with_two_balls_#20"
         },
         {
             "type": "Feature",
@@ -559,7 +531,64 @@
                     52.50006
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/quartiermanagement_am_mehringplaz_kunstwelt_v_#15"
+            "id": "mehringplatz-community-atlas/quartiermanagement_am_mehringplaz_kunstwelt_v_#15"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Soziale Stadt - Quartiersmanagement am Mehringplatz  ",
+                "type": "Program",
+                "marker-symbol": "star\r",
+                "start_date": "2005-09-26T00:00:00.000-07:00",
+                "description": "In 2005 the area around Mehringplatz has been targeted by the national Soziale Stadt program (Socially Integrative City ), identifying this territory as a deprived neighbourhood in need for specific social support measures according to standards defined at Federal level. Soziale Stadt is a complex and comprehensive community-led local development scheme that combines a tight spatial focus, local participation, and the integration of policies and human and financial resources. This federal programme, jointly financed by European Regional Development Funds and national funds, decentralises decision-making, by delegating responsibility for small-scale projects to residents living in deprived areas selected by the Berlin Senate. The program establishes a local Quartiermanagement that manages different types of Neighbourhood Funds, each covering a different type of project and working with the direct involvement of residents. The Quartiersmanagement teams provide a platform for networking and interaction, enabling groups and actors to debate and identify local needs, values and responses.",
+                "end_date": "",
+                "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
+                "type2": "Program"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ],
+                        [
+                            13.39284129816133,
+                            52.50433913724122
+                        ],
+                        [
+                            13.392894942341627,
+                            52.50400607247558
+                        ],
+                        [
+                            13.39233704286653,
+                            52.50397994964212
+                        ],
+                        [
+                            13.392412144718946,
+                            52.50347708207264
+                        ],
+                        [
+                            13.391682583866896,
+                            52.50342483576153
+                        ],
+                        [
+                            13.391693312702955,
+                            52.50334646617839
+                        ],
+                        [
+                            13.391135413227857,
+                            52.503294219712025
+                        ],
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ]
+                    ]
+                ]
+            },
+            "id": "mehringplatz-community-atlas/soziale_stadt_quartiersmanagement_am_mehringplatz_#14"
         },
         {
             "type": "Feature",
@@ -580,7 +609,7 @@
                     52.4996
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/ela_kagel_supermarkt#13"
+            "id": "mehringplatz-community-atlas/ela_kagel_supermarkt#13"
         },
         {
             "type": "Feature",
@@ -601,7 +630,64 @@
                     52.4996
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/supermarkt#12"
+            "id": "mehringplatz-community-atlas/supermarkt#12"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Besselpark Regeneration ",
+                "type": "Program",
+                "marker-symbol": "star\r",
+                "start_date": "2019-08-14T16:00:00.000-07:00",
+                "description": "Redesign of the park in progress as part of the Regeneration plan (Sanierungsgebiet). The project has been selected through a competition including a public consultation",
+                "end_date": "",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/03/Besselpark-Perspektive-komp-768x402.jpg",
+                "type2": "Program"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ],
+                        [
+                            13.39284129816133,
+                            52.50433913724122
+                        ],
+                        [
+                            13.392894942341627,
+                            52.50400607247558
+                        ],
+                        [
+                            13.39233704286653,
+                            52.50397994964212
+                        ],
+                        [
+                            13.392412144718946,
+                            52.50347708207264
+                        ],
+                        [
+                            13.391682583866896,
+                            52.50342483576153
+                        ],
+                        [
+                            13.391693312702955,
+                            52.50334646617839
+                        ],
+                        [
+                            13.391135413227857,
+                            52.503294219712025
+                        ],
+                        [
+                            13.390974480686964,
+                            52.504162809150216
+                        ]
+                    ]
+                ]
+            },
+            "id": "mehringplatz-community-atlas/besselpark_regeneration_#11"
         },
         {
             "type": "Feature",
@@ -622,7 +708,7 @@
                     52.50315
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/taz_neubau#10"
+            "id": "mehringplatz-community-atlas/taz_neubau#10"
         },
         {
             "type": "Feature",
@@ -643,7 +729,7 @@
                     52.50225
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/hedwig_dohm_gedenktafel#9"
+            "id": "mehringplatz-community-atlas/hedwig_dohm_gedenktafel#9"
         },
         {
             "type": "Feature",
@@ -664,7 +750,7 @@
                     52.50373
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/victoria_versicherung_kreuzberg#8"
+            "id": "mehringplatz-community-atlas/victoria_versicherung_kreuzberg#8"
         },
         {
             "type": "Feature",
@@ -685,12 +771,12 @@
                     52.50062
                 ]
             },
-            "id": "https://mehringplatz.community-atlas.net/kma_antenne#7"
+            "id": "mehringplatz-community-atlas/kma_antenne#7"
         }
     ],
     "properties": {
         "title": "Mehringplatz Anknipsen",
-        "uri": "https://mehringplatz.community-atlas.net",
+        "uri": "mehringplatz-community-atlas",
         "description": "A community-led atlas of the Südliche Friedrichstadt - Berlin",
         "image": ""
     }
