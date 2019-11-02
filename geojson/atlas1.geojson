@@ -49,32 +49,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Sanierungsgebiet Südliche Friedrichstadt",
-                "type": "Program",
-                "marker-symbol": "star\r",
-                "start_date": "2011-04-01T06:00:00.000-07:00",
-                "description": "",
-                "end_date": "",
-                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
-                "type2": "Program",
-                "category": "Delimitation,Transformations",
-                "sub-category": "Spatial planning",
-                "tags": "Public space,Urban regeneration",
-                "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions,To highlight current projects, conflicts and initiatives - transformations taking place in the area",
-                "links": [
-                    {
-                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
-                        "title": "",
-                        "description": "",
-                        "type": "website"
-                    }
-                ]
-            },
-            "id": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Sanierungsbeirates Südliche Friedrichstadt, Friedrichstadt Süd\n",
                 "type": "Organization",
                 "marker-symbol": "circle\r",
@@ -215,7 +189,7 @@
                 "end_date": "",
                 "image": "",
                 "type2": "Place",
-                "category": "Delimitation",
+                "category": "Delimitations",
                 "sub-category": "Administrative borders",
                 "tags": "",
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
@@ -617,6 +591,95 @@
         {
             "type": "Feature",
             "properties": {
+                "title": "Sanierungsgebiet Südliche Friedrichstadt",
+                "type": "Program",
+                "marker-symbol": "star\r",
+                "start_date": "2011-04-01T06:00:00.000-07:00",
+                "description": "",
+                "end_date": "",
+                "image": "http://www.sanierung-suedliche-friedrichstadt.de/wp-content/uploads/2019/09/SFS-Luftild-Geltungsbereich-753x1024.jpg",
+                "type2": "Program",
+                "category": "Transformations",
+                "sub-category": "Public space",
+                "tags": "Public space,Urban regeneration",
+                "category-description": "To highlight current projects, conflicts and initiatives - transformations taking place in the area",
+                "links": [
+                    {
+                        "url": "http://www.sanierung-suedliche-friedrichstadt.de/",
+                        "title": "",
+                        "description": "",
+                        "type": "website"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            13.389109026495703,
+                            52.49811904906019
+                        ],
+                        [
+                            13.390868555609472,
+                            52.497936164411875
+                        ],
+                        [
+                            13.395739447180517,
+                            52.49840643768485
+                        ],
+                        [
+                            13.39543903977085,
+                            52.49902039799883
+                        ],
+                        [
+                            13.39419449478794,
+                            52.50113653593054
+                        ],
+                        [
+                            13.394087206427344,
+                            52.50175045812035
+                        ],
+                        [
+                            13.39440907150913,
+                            52.502338247927895
+                        ],
+                        [
+                            13.391211878363379,
+                            52.502116194924305
+                        ],
+                        [
+                            13.391018759314306,
+                            52.503278695273096
+                        ],
+                        [
+                            13.388851534430273,
+                            52.503148078789366
+                        ],
+                        [
+                            13.38520373017002,
+                            52.502364371736924
+                        ],
+                        [
+                            13.387757193152197,
+                            52.500300542992875
+                        ],
+                        [
+                            13.388830076758154,
+                            52.500587917358274
+                        ],
+                        [
+                            13.389109026495703,
+                            52.49811904906019
+                        ]
+                    ]
+                ]
+            },
+            "id": "mehringplatz-community-atlas/sanierungsgebiet_s_dliche_friedrichstadt#22"
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "title": "Donut Wedge with Two Balls ",
                 "type": "Monument",
                 "marker-symbol": "monument\r",
@@ -683,15 +746,15 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Soziale Stadt - Quartiersmanagement am Mehringplatz  ",
+                "title": "Quartiersmanagement am Mehringplatz  ",
                 "type": "Program",
                 "marker-symbol": "star\r",
                 "start_date": "2005-09-26T00:00:00.000-07:00",
-                "description": "In 2005 the area around Mehringplatz has been targeted by the national Soziale Stadt program (Socially Integrative City ), identifying this territory as a deprived neighbourhood in need for specific social support measures according to standards defined at Federal level. Soziale Stadt is a complex and comprehensive community-led local development scheme that combines a tight spatial focus, local participation, and the integration of policies and human and financial resources. This federal programme, jointly financed by European Regional Development Funds and national funds, decentralises decision-making, by delegating responsibility for small-scale projects to residents living in deprived areas selected by the Berlin Senate. The program establishes a local Quartiermanagement that manages different types of Neighbourhood Funds, each covering a different type of project and working with the direct involvement of residents. The Quartiersmanagement teams provide a platform for networking and interaction, enabling groups and actors to debate and identify local needs, values and responses.",
+                "description": "In 2005 the area around Mehringplatz has been targeted by the national Soziale Stadt program (Socially Integrative City), identifying this territory as a deprived neighbourhood in need for specific social support measures according to standards defined at Federal level. Soziale Stadt is a complex and comprehensive community-led local development scheme that combines a tight spatial focus, local participation, and the integration of policies and human and financial resources. This federal programme, jointly financed by European Regional Development Funds and national funds, decentralises decision-making, by delegating responsibility for small-scale projects to residents living in deprived areas selected by the Berlin Senate. The program establishes a local Quartiermanagement that manages different types of Neighbourhood Funds, each covering a different type of project and working with the direct involvement of residents. The Quartiersmanagement teams provide a platform for networking and interaction, enabling groups and actors to debate and identify local needs, values and responses.",
                 "end_date": "",
                 "image": "https://i.pinimg.com/564x/59/3b/74/593b74d8236d1bb4217780c3c405b396.jpg",
                 "type2": "Program",
-                "category": "Delimitation",
+                "category": "Delimitations",
                 "sub-category": "Area of interest",
                 "tags": "Social inclusion,quartiersmanagement",
                 "category-description": "To define the limitation of the area of interest\r\n- To identify areas defined by administrative or policy definitions",
@@ -747,7 +810,7 @@
                     ]
                 ]
             },
-            "id": "mehringplatz-community-atlas/soziale_stadt_quartiersmanagement_am_mehringplatz_#14"
+            "id": "mehringplatz-community-atlas/quartiersmanagement_am_mehringplatz_#14"
         },
         {
             "type": "Feature",
@@ -975,7 +1038,7 @@
                 "title": "KMA Antenne",
                 "type": "Organization",
                 "marker-symbol": "circle\r",
-                "start_date": "1987-09-29T16:00:00.000-07:00",
+                "start_date": "",
                 "description": "Youth centre",
                 "end_date": "",
                 "image": "",
